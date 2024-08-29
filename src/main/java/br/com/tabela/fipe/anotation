@@ -1,0 +1,12 @@
+1.classe de serviço -ok
+2.classe mapeamento (ConveteDados) -ok
+3. interface (iConvertDados) com método generico -ok
+4.classe principal -ok
+5.metodo de lista na interface (iConvertDados)-ok
+6.implemantar metodo de lista em Classe ConverteDados -ok
+7.Criacao de records para searlização e Listagem  da Api
+
+link de exemplo
+#https://parallelum.com.br/fipe/api/v1/carros/marcas/1/modelos/1/anos/1992-1
+dependencias
+https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.17.1
